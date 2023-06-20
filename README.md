@@ -10,7 +10,7 @@
     
     <div>
   
-  <!-- AndroidManifest.xml -->
+ " <!-- AndroidManifest.xml -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.fingerprintdemo">
 
@@ -29,7 +29,7 @@
     </application>
 
 </manifest>
-
+"
   
   </div>
     </p>
