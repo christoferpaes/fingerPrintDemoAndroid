@@ -6,7 +6,7 @@
     <b>
     This needs to go into the manifest 
       
-    </b>
+
   </p>
     <div>
   
