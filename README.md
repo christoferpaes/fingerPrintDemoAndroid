@@ -5,7 +5,8 @@
   <p>
     <b>
     This needs to go into the manifest 
-      
+      <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+
 
   </p>
     <div>
